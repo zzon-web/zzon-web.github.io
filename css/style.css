@@ -500,3 +500,24 @@
     background-repeat: repeat-x;
 	animation: footerAnimatedBg 50s linear infinite;
 }
+
+@media (max-width: 767.98px) {
+    p {
+        font-size: 10px;
+    }
+
+    .display-1 {
+        font-size: 25px;
+        border-bottom: none !important;
+        width: 100%;
+    }
+
+    .fs-5 {
+        font-size: 14px !important;
+        padding: 0  10px;
+    }
+
+    .unirte {
+        margin-top: 18px;
+    }
+ }
